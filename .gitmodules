@@ -1,0 +1,3 @@
+[submodule "zyzhi-blog/themes/FixIt"]
+	path = zyzhi-blog/themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
