@@ -5,7 +5,7 @@ date: 2024-07-21T14:26:16+08:00
 slug: a538cc4
 draft: true
 author:
-  name:
+  name: zyz
   link:
   email:
   avatar:
@@ -34,7 +34,7 @@ lightgallery: true
 password:
 message:
 repost:
-  enable: true
+  enable: false
   url:
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter

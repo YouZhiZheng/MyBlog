@@ -302,7 +302,7 @@ enableEmoji = true
   # site description
   description = ""
   # site keywords
-  keywords = []
+  keywords = ["C++", "EDA", "Python", "Git", "Linux"]
   # site default theme ["light", "dark", "auto"]
   defaultTheme = "auto"
   # which hash function used for SRI, when empty, no SRI is used
@@ -992,7 +992,7 @@ enableEmoji = true
         editorTravel = true
         flatMode = "auto"
         # FixIt 0.2.17 | CHANGED enable lightgallery support
-        lightgallery = false
+        lightgallery = true
         locale = "" # FixIt 0.2.15 | NEW
         # FixIt 0.2.18 | NEW
         emoticons = ""
