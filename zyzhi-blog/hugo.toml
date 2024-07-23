@@ -812,7 +812,7 @@ enableEmoji = true
     twemoji = false
     # whether to enable lightgallery
     # FixIt 0.2.18 | CHANGED if set to "force", images in the content will be forced to shown as the gallery.
-    lightgallery = true
+    lightgallery = false
     # whether to enable the ruby extended syntax
     ruby = true
     # whether to enable the fraction extended syntax
@@ -992,7 +992,7 @@ enableEmoji = true
         editorTravel = true
         flatMode = "auto"
         # FixIt 0.2.17 | CHANGED enable lightgallery support
-        lightgallery = true
+        lightgallery = false
         locale = "" # FixIt 0.2.15 | NEW
         # FixIt 0.2.18 | NEW
         emoticons = ""

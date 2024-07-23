@@ -1,5 +1,5 @@
 ---
-title: GitLearningNote
+title: Git学习笔记
 subtitle:
 date: 2024-07-21T14:26:16+08:00
 slug: a538cc4
@@ -9,8 +9,8 @@ author:
   link:
   email:
   avatar:
-description:
-keywords:
+description: Git的基础知识
+keywords: Git
 license:
 comment: true
 weight: 0
@@ -30,7 +30,7 @@ resources:
     src: featured-image-preview.jpg
 toc: true
 math: true
-lightgallery: true
+lightgallery: force
 password:
 message:
 repost:

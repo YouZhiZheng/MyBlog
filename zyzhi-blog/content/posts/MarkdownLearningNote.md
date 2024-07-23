@@ -9,8 +9,8 @@ author:
   link:
   email: 
   avatar: 
-description: Common Markdown grammar
-keywords:
+description: Markdown常用的一些语法
+keywords: Markdown
 license:
 comment: true
 weight: 0
@@ -30,7 +30,7 @@ resources:
     src: featured-image-preview.jpg
 toc: true
 math: true
-lightgallery: true
+lightgallery: force
 password:
 message:
 repost:
