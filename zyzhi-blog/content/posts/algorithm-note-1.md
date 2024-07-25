@@ -15,7 +15,8 @@ license:
 comment: true
 weight: 0
 tags:
-  - 双指针, 链表
+  - 双指针
+  - 链表
 categories:
   - 算法笔记
 hiddenFromHomePage: false
