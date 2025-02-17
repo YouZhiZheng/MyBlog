@@ -16,8 +16,9 @@ comment: true
 weight: 0
 tags:
   - Astar
-categories:
   - C++
+categories:
+  - 算法
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRss: false

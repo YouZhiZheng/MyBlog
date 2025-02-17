@@ -17,7 +17,7 @@ weight: 0
 tags:
   - 动态规划
 categories:
-  - 算法笔记
+  - 算法
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRss: false

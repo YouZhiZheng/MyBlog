@@ -18,7 +18,7 @@ tags:
   - 二叉树
   - 后序遍历
 categories:
-  - 算法笔记
+  - 算法
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRss: false

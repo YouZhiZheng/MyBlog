@@ -621,7 +621,7 @@ enableEmoji = true
     TikTok = ""
     Phone = ""
     Email = "youzhizheng9@gmail.com"
-    RSS = false
+    RSS = true
     # custom social links like the following
     # [params.social.twitter]
     #   id = "lruihao"
