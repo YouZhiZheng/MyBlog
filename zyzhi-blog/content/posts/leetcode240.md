@@ -15,9 +15,11 @@ license:
 comment: true
 weight: 0
 tags:
-  - draft
+  - 数组
+  - 二分查找
+  - LeetCodeHot100
 categories:
-  - draft
+  - 算法
 hiddenFromHomePage: false
 hiddenFromSearch: false
 hiddenFromRss: false
