@@ -41,7 +41,9 @@ repost:
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
 ## 脚本创建
+
 在单独运行点工具前必须配置对应的环境变量，在iEDA目录/iEDA/scripts/design/sky130_gcd下使用命令`touch`创建一个.sh脚本，内容如下:
+
 ```bash
 #!/bin/bash
 CURRENT_DIR="$(pwd)"
@@ -70,9 +72,11 @@ echo "CORE_AREA set to: $CORE_AREA"
 ```
 
 ## 点工具运行
+
 运行点工具前，在当前窗口使用命令 `source 脚本名.sh` 来设置环境变量，然后按照iEDA的用户手册来运行点工具即可
 
 **PS：** 设置的环境变量只在当前窗口有效，即在新窗口运行点工具前需要再次运行脚本来设置环境变量，如果想要使得变量在全部窗口有效请自行谷歌。
 
 ## 参考资料
+
 1. https://github.com/OSCC-Project/iEDA/blob/master/docs/user_guide/iEDA_user_guide.md
