@@ -44,7 +44,7 @@ repost:
 
 ## [题目](https://leetcode.cn/problems/median-of-two-sorted-arrays/description/?envType=study-plan-v2&envId=top-100-liked)
 
-![图1](/PostsImgs/LeetCode/4/question.png)
+![图1](/PostsImgs/LeetCode/394/question.png)
 
 ## 思路
 
